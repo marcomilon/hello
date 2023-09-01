@@ -15,7 +15,7 @@
       "function": {
         "hi": {
           "deploymentBucketName": "amplify-hello-dev-171652-deployment",
-          "s3Key": "amplify-builds/hi-6c645741657073432f62-build.zip"
+          "s3Key": "amplify-builds/hi-50496374454267786f32-build.zip"
         }
       }
     }
