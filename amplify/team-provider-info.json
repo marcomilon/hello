@@ -10,6 +10,11 @@
       "StackName": "amplify-hello-dev-171652",
       "StackId": "arn:aws:cloudformation:us-east-1:124788539266:stack/amplify-hello-dev-171652/7f291640-4904-11ee-afae-0ac4265df69d",
       "AmplifyAppId": "d2d35law5f91jp"
+    },
+    "categories": {
+      "function": {
+        "hi": {}
+      }
     }
   }
 }
